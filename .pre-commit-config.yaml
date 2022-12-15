@@ -1,0 +1,9 @@
+repos:
+-   repo: local
+    hooks:
+    -   id: spotless-precommit
+        name: Spotless Apply
+        description: Format code to Google Java format
+        entry: bash spotless-precommit.sh
+        language: system
+        verbose: true
