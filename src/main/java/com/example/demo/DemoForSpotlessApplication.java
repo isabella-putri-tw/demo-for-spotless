@@ -7,14 +7,14 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DemoForSpotlessApplication {
 
-    public static void main(String[] args) {
+public static void main(String[] args) {
 
-        try {
-            System.out.println("Sss");
-        } catch (Exception e) {
+	String superTrouper = "";
 
-        }
+	try {
+	} catch (Exception e) {
+	}
 
-        SpringApplication.run(DemoForSpotlessApplication.class, args);
-    }
+	SpringApplication.run(DemoForSpotlessApplication.class, args);
+}
 }
