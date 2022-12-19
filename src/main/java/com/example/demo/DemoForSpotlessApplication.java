@@ -12,7 +12,9 @@ public static void main(String[] args) {
 	String superTrouper = "";
 
 	try {
+
 	} catch (Exception e) {
+
 	}
 
 	SpringApplication.run(DemoForSpotlessApplication.class, args);
