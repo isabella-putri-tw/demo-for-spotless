@@ -7,6 +7,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class DemoForSpotlessApplicationTests {
 
-@Test
-void contextLoads() {}
+  @Test
+  void contextLoads() {}
 }
